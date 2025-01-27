@@ -1,4 +1,4 @@
-# LABORATORIO 2 - PATTERNS
+ en su proyecto# LABORATORIO 2 - PATTERNS
 
 #### TALLER 2
 ##### PATTERNS - FACTORY
@@ -210,6 +210,6 @@ Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con 
 Dentro del directorio del proyecto, cree un archivo de texto integrantes.txt con el nombre de los dos integrantes del taller.
 - Crear un repositorio para este proyecto y agregar la url del mismo, como entrega del laboratorio.
 - La entrega final se realizará en Moodle.
-- NOTA: Investigue para qué sirve "gitignore" y cómo se usa. Para futuras entregas, debe estar configurado.
+- NOTA: Investigue para qué sirve "gitignore" y configurelo en su proyecto para evitar adjuntar archivos que no son relevantes para el proyecto.
 
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
