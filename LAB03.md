@@ -30,8 +30,8 @@ archetypeArtifactId: maven-archetype-quickstart
 - Verifique que la versión de java sea la 17
 ```xml
 <properties>
-  <maven.compiler.target>1.17</maven.compiler.target>
-  <maven.compiler.source>1.17</maven.compiler.source>
+  <maven.compiler.target>1.8</maven.compiler.target>
+  <maven.compiler.source>1.8</maven.compiler.source>
 </properties>
 ```
 - Compile el proyecto para validar que todo este bien.
@@ -52,10 +52,11 @@ Estos paquetes también se deben crear en la carpeta de test.
 │   └───edu
 │     └───eci
 │       └───cvds
-│         └───library
-│           └───book
-│           └───loan
-│           └───user
+│         └───tdd
+│           └───library
+│             └───book
+│             └───loan
+│             └───user
 │ App.java
 ```
 
