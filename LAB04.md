@@ -59,7 +59,7 @@ Sprint 3: Conexión del Frontend con el API y Pruebas Finales
 
 ## MODELO DE ARQUITECTURA
 
-![Screenshot_2](assets/TareasArquitectura.drawio.png)
+![Screenshot_2](Arquitectura.drawio.png)
 
 ## PASOS PARA CONSTRUIR EL PROYECTO
 
