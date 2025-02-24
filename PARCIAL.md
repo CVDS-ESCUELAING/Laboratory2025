@@ -31,6 +31,5 @@ Se debe crear un repositorio en GitHub el cual debe tener un proyecto maven que 
 #####  ES IMPORTANTE RECORDAR QUE:
 
 1. El almacenamiento puede ser en estructuras en memoria como Listas, Mapas, etc
-2. El proyecto debe funcionar localmente en el puerto 8080.
-3. Se debe subir el link del proyecto en el espacio de campus virtual.
-4. El proyecto debe contar con el diseño documentado en el readme del repositorio y debe terner capturas de pantalla mostrando su funcionamiento.
+2. Se debe subir el link del proyecto en el espacio de campus virtual.
+3. El proyecto debe contar con el diseño documentado en el readme del repositorio y debe terner capturas de pantalla mostrando su funcionamiento.
