@@ -33,3 +33,7 @@ Se debe crear un repositorio en GitHub el cual debe tener un proyecto maven que 
 1. El almacenamiento puede ser en estructuras en memoria como Listas, Mapas, etc
 2. Se debe subir el link del proyecto en el espacio de campus virtual.
 3. El proyecto debe contar con el diseño documentado en el readme del repositorio y debe terner capturas de pantalla mostrando su funcionamiento.
+4. EL proyecto debe tener análisis de cobertura con Jacoco mínimo al 80%
+
+##Bono
+- Integrarlo con SonarCloud para generar reporte de calidad de código y análisis estático
