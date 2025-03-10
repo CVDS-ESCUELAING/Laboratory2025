@@ -2,8 +2,8 @@
 
 ## PARTE I. Definiendo Funcionalidades
 ### Nuevos requisitos
-Utilizando el proyecto de laboratorios desarrollado en las sesiones anteriores tenga en cuenta las siguientes funcionalidades:
-1) Autenticación: El sistema de tareas deberá tener un sistema de autenticación ahora los usuarios podrán gestionar sus tareas; una vez que el usuario inicia sesión podrá ver sus tareas.
+Utilizando el proyecto de reservas desarrollado en las sesiones anteriores tenga en cuenta las siguientes funcionalidades:
+1) Autenticación: El sistema de reservas deberá tener un sistema de autenticación ahora los usuarios podrán gestionar sus reservas; una vez que el usuario inicia sesión podrá ver sus reservas.
 2) Todas las intefaces gráficas deberán migrarse a REACT.
 
 ## Requisitos de entrega
