@@ -13,7 +13,7 @@
 
 ## PARTE II. SSL
 
-1. Modifique su proyecto de tareas para incluir certificados SSL, asegurando que las peticiones HTTP sean seguras. Aplique estos certificados a los Endpoints definidos.
+1. Modifique su proyecto de reservas para incluir certificados SSL, asegurando que las peticiones HTTP sean seguras. Aplique estos certificados a los Endpoints definidos.
    - Puede seguir el tutorial disponible en el siguiente enlace: [Certificado HTTPS autofirmado en Spring Boot](https://www.baeldung.com/spring-boot-https-self-signed-certificate).
 
 ## Requisitos de entrega
