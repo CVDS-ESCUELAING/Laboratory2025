@@ -3,7 +3,7 @@
 ## PARTE I. Spring Security
 
 1. Modifique su proyecto de reservas para incluir protección de seguridad.
-   - Puede seguir el tutorial disponible en el siguiente enlace: [Spring Security]([https://spring.io/guides/gs/securing-web](https://www.geeksforgeeks.org/securing-rest-apis-with-spring-security/)).
+   - Puede seguir el tutorial disponible en el siguiente enlace: [Spring Security]([https://spring.io/guides/gs/securing-web](https://www.geeksforgeeks.org/securing-rest-apis-with-springsecurity/)).
 
 2. El tutorial utiliza una base de datos en memoria. Como su proyecto ya cuenta con una base de datos en MongoDB, ajuste las configuraciones necesarias para integrarlo.
 
